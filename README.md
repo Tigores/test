@@ -1,2 +1,2 @@
 # test
-This is a description.@#%@^&amp;
+This is a test repository for Tigores' imitation.
